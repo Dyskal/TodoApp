@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TodoApp</string>
+    <string name="createActivity">Création d\'une tâche</string>
+    <string name="intitule">Intitulé</string>
+    <string name="date">Date</string>
+    <string name="contexte">Contexte</string>
+    <string name="description">Description</string>
+    <string name="valider">Valider</string>
+    <string name="annuler">Annuler</string>
+    <string name="modifyActivity">Modifier la tâche</string>
+    <string name="supprimer">Supprimer</string>
+    <string name="color">Couleur</string>
+    <string name="url">URL (appui long pour ouvrir)</string>
+</resources>
